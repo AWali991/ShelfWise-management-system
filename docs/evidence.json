@@ -1,0 +1,386 @@
+{
+  "generated": "2026-11-01",
+  "data_up_to": "2026-10-22",
+  "sqlite": {
+    "dataset": {
+      "products": 27,
+      "sales": 251,
+      "waste_records": 9,
+      "stock_movements": 315
+    },
+    "reconciliation": {
+      "checked": 27,
+      "matching": 27
+    },
+    "sales_by_condition": [
+      {
+        "label": "New",
+        "units": 220,
+        "revenue": 12573.71,
+        "profit": 3984.71,
+        "sales": 195
+      },
+      {
+        "label": "Refurbished",
+        "units": 35,
+        "revenue": 10420.0,
+        "profit": 3466.0,
+        "sales": 35
+      },
+      {
+        "label": "Used",
+        "units": 21,
+        "revenue": 4341.0,
+        "profit": 1756.0,
+        "sales": 21
+      }
+    ],
+    "sales_by_category": [
+      {
+        "label": "Laptops",
+        "units": 39,
+        "revenue": 17491.0,
+        "profit": 5391.0,
+        "sales": 39
+      },
+      {
+        "label": "Desktop Computers",
+        "units": 13,
+        "revenue": 3627.0,
+        "profit": 1212.0,
+        "sales": 13
+      },
+      {
+        "label": "Monitors",
+        "units": 16,
+        "revenue": 1746.0,
+        "profit": 621.0,
+        "sales": 16
+      },
+      {
+        "label": "Keyboards & Mice",
+        "units": 87,
+        "revenue": 1610.75,
+        "profit": 710.75,
+        "sales": 69
+      },
+      {
+        "label": "Parts & Components",
+        "units": 43,
+        "revenue": 1607.64,
+        "profit": 629.64,
+        "sales": 43
+      },
+      {
+        "label": "Accessories & Cables",
+        "units": 63,
+        "revenue": 973.47,
+        "profit": 513.47,
+        "sales": 56
+      },
+      {
+        "label": "Networking",
+        "units": 15,
+        "revenue": 278.85,
+        "profit": 128.85,
+        "sales": 15
+      }
+    ],
+    "waste_by_reason": [
+      {
+        "label": "Damaged",
+        "units": 3,
+        "cost": 434.0,
+        "records": 3
+      },
+      {
+        "label": "Faulty",
+        "units": 3,
+        "cost": 32.5,
+        "records": 3
+      },
+      {
+        "label": "Sent for recycling",
+        "units": 1,
+        "cost": 30.0,
+        "records": 1
+      },
+      {
+        "label": "Lost or stolen",
+        "units": 1,
+        "cost": 15.0,
+        "records": 1
+      },
+      {
+        "label": "Obsolete",
+        "units": 2,
+        "cost": 6.0,
+        "records": 1
+      }
+    ],
+    "stock_by_condition": [
+      {
+        "label": "New",
+        "products": 16,
+        "units": 121,
+        "value": 7502.0
+      },
+      {
+        "label": "Refurbished",
+        "products": 6,
+        "units": 34,
+        "value": 4542.0
+      },
+      {
+        "label": "Used",
+        "products": 5,
+        "units": 23,
+        "value": 1336.0
+      }
+    ],
+    "low_stock": [
+      {
+        "name": "7-in-1 USB-C Hub",
+        "quantity": 3,
+        "days_left": 6,
+        "suggested_order": 11
+      },
+      {
+        "name": "HDMI Cable 2m",
+        "quantity": 8,
+        "days_left": 7,
+        "suggested_order": 23
+      }
+    ],
+    "slow_moving": [
+      "K55 RGB Gaming Keyboard",
+      "4GB DDR3 Desktop RAM"
+    ],
+    "totals": {
+      "revenue": 27334.71,
+      "profit": 9206.71,
+      "waste_cost": 517.5
+    },
+    "timings": {
+      "Dashboard": {
+        "mean_ms": 3.2,
+        "max_ms": 15.8
+      },
+      "Products": {
+        "mean_ms": 2.8,
+        "max_ms": 8.1
+      },
+      "Search": {
+        "mean_ms": 1.6,
+        "max_ms": 2.2
+      },
+      "New sale": {
+        "mean_ms": 2.2,
+        "max_ms": 6.9
+      },
+      "Sales report": {
+        "mean_ms": 3.0,
+        "max_ms": 19.5
+      },
+      "Low stock": {
+        "mean_ms": 1.8,
+        "max_ms": 2.1
+      },
+      "Stock history": {
+        "mean_ms": 8.4,
+        "max_ms": 14.1
+      }
+    }
+  },
+  "mysql": {
+    "dataset": {
+      "products": 27,
+      "sales": 251,
+      "waste_records": 9,
+      "stock_movements": 315
+    },
+    "reconciliation": {
+      "checked": 27,
+      "matching": 27
+    },
+    "sales_by_condition": [
+      {
+        "label": "New",
+        "units": 220.0,
+        "revenue": 12573.71,
+        "profit": 3984.71,
+        "sales": 195
+      },
+      {
+        "label": "Refurbished",
+        "units": 35.0,
+        "revenue": 10420.0,
+        "profit": 3466.0,
+        "sales": 35
+      },
+      {
+        "label": "Used",
+        "units": 21.0,
+        "revenue": 4341.0,
+        "profit": 1756.0,
+        "sales": 21
+      }
+    ],
+    "sales_by_category": [
+      {
+        "label": "Laptops",
+        "units": 39.0,
+        "revenue": 17491.0,
+        "profit": 5391.0,
+        "sales": 39
+      },
+      {
+        "label": "Desktop Computers",
+        "units": 13.0,
+        "revenue": 3627.0,
+        "profit": 1212.0,
+        "sales": 13
+      },
+      {
+        "label": "Monitors",
+        "units": 16.0,
+        "revenue": 1746.0,
+        "profit": 621.0,
+        "sales": 16
+      },
+      {
+        "label": "Keyboards & Mice",
+        "units": 87.0,
+        "revenue": 1610.75,
+        "profit": 710.75,
+        "sales": 69
+      },
+      {
+        "label": "Parts & Components",
+        "units": 43.0,
+        "revenue": 1607.64,
+        "profit": 629.64,
+        "sales": 43
+      },
+      {
+        "label": "Accessories & Cables",
+        "units": 63.0,
+        "revenue": 973.47,
+        "profit": 513.47,
+        "sales": 56
+      },
+      {
+        "label": "Networking",
+        "units": 15.0,
+        "revenue": 278.85,
+        "profit": 128.85,
+        "sales": 15
+      }
+    ],
+    "waste_by_reason": [
+      {
+        "label": "Damaged",
+        "units": 3.0,
+        "cost": 434.0,
+        "records": 3
+      },
+      {
+        "label": "Faulty",
+        "units": 3.0,
+        "cost": 32.5,
+        "records": 3
+      },
+      {
+        "label": "Sent for recycling",
+        "units": 1.0,
+        "cost": 30.0,
+        "records": 1
+      },
+      {
+        "label": "Lost or stolen",
+        "units": 1.0,
+        "cost": 15.0,
+        "records": 1
+      },
+      {
+        "label": "Obsolete",
+        "units": 2.0,
+        "cost": 6.0,
+        "records": 1
+      }
+    ],
+    "stock_by_condition": [
+      {
+        "label": "New",
+        "products": 16,
+        "units": 121.0,
+        "value": 7502.0
+      },
+      {
+        "label": "Refurbished",
+        "products": 6,
+        "units": 34.0,
+        "value": 4542.0
+      },
+      {
+        "label": "Used",
+        "products": 5,
+        "units": 23.0,
+        "value": 1336.0
+      }
+    ],
+    "low_stock": [
+      {
+        "name": "7-in-1 USB-C Hub",
+        "quantity": 3,
+        "days_left": 6,
+        "suggested_order": 11
+      },
+      {
+        "name": "HDMI Cable 2m",
+        "quantity": 8,
+        "days_left": 7,
+        "suggested_order": 23
+      }
+    ],
+    "slow_moving": [
+      "K55 RGB Gaming Keyboard",
+      "4GB DDR3 Desktop RAM"
+    ],
+    "totals": {
+      "revenue": 27334.71,
+      "profit": 9206.71,
+      "waste_cost": 517.5
+    },
+    "timings": {
+      "Dashboard": {
+        "mean_ms": 42.0,
+        "max_ms": 53.7
+      },
+      "Products": {
+        "mean_ms": 27.8,
+        "max_ms": 35.3
+      },
+      "Search": {
+        "mean_ms": 25.3,
+        "max_ms": 33.0
+      },
+      "New sale": {
+        "mean_ms": 31.8,
+        "max_ms": 40.2
+      },
+      "Sales report": {
+        "mean_ms": 32.0,
+        "max_ms": 46.2
+      },
+      "Low stock": {
+        "mean_ms": 28.5,
+        "max_ms": 34.3
+      },
+      "Stock history": {
+        "mean_ms": 33.2,
+        "max_ms": 40.3
+      }
+    }
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "pages_checked": 50,
+  "text_items_checked": 7892,
+  "problems": 0,
+  "results": [
+    {
+      "page": "/login",
+      "view": "desktop",
+      "text_items_checked": 11,
+      "problems": []
+    },
+    {
+      "page": "/forgot",
+      "view": "desktop",
+      "text_items_checked": 7,
+      "problems": []
+    },
+    {
+      "page": "/reset?email=staff@shelfwise.test",
+      "view": "desktop",
+      "text_items_checked": 16,
+      "problems": []
+    },
+    {
+      "page": "/",
+      "view": "desktop",
+      "text_items_checked": 104,
+      "problems": []
+    },
+    {
+      "page": "/products",
+      "view": "desktop",
+      "text_items_checked": 260,
+      "problems": []
+    },
+    {
+      "page": "/products/new",
+      "view": "desktop",
+      "text_items_checked": 44,
+      "problems": []
+    },
+    {
+      "page": "/products/1",
+      "view": "desktop",
+      "text_items_checked": 143,
+      "problems": []
+    },
+    {
+      "page": "/products/1/edit",
+      "view": "desktop",
+      "text_items_checked": 43,
+      "problems": []
+    },
+    {
+      "page": "/products/1/count",
+      "view": "desktop",
+      "text_items_checked": 34,
+      "problems": []
+    },
+    {
+      "page": "/sales/new",
+      "view": "desktop",
+      "text_items_checked": 81,
+      "problems": []
+    },
+    {
+      "page": "/stock/receive",
+      "view": "desktop",
+      "text_items_checked": 39,
+      "problems": []
+    },
+    {
+      "page": "/waste/new",
+      "view": "desktop",
+      "text_items_checked": 72,
+      "problems": []
+    },
+    {
+      "page": "/history",
+      "view": "desktop",
+      "text_items_checked": 1841,
+      "problems": []
+    },
+    {
+      "page": "/history?q=HDMI",
+      "view": "desktop",
+      "text_items_checked": 266,
+      "problems": []
+    },
+    {
+      "page": "/reports?view=low",
+      "view": "desktop",
+      "text_items_checked": 68,
+      "problems": []
+    },
+    {
+      "page": "/reports?view=slow",
+      "view": "desktop",
+      "text_items_checked": 55,
+      "problems": []
+    },
+    {
+      "page": "/reports?view=sales",
+      "view": "desktop",
+      "text_items_checked": 215,
+      "problems": []
+    },
+    {
+      "page": "/reports?view=waste",
+      "view": "desktop",
+      "text_items_checked": 71,
+      "problems": []
+    },
+    {
+      "page": "/reports?view=condition",
+      "view": "desktop",
+      "text_items_checked": 64,
+      "problems": []
+    },
+    {
+      "page": "/stock/count",
+      "view": "desktop",
+      "text_items_checked": 117,
+      "problems": []
+    },
+    {
+      "page": "/suppliers",
+      "view": "desktop",
+      "text_items_checked": 59,
+      "problems": []
+    },
+    {
+      "page": "/users",
+      "view": "desktop",
+      "text_items_checked": 55,
+      "problems": []
+    },
+    {
+      "page": "/users/2/edit",
+      "view": "desktop",
+      "text_items_checked": 37,
+      "problems": []
+    },
+    {
+      "page": "/alerts",
+      "view": "desktop",
+      "text_items_checked": 270,
+      "problems": []
+    },
+    {
+      "page": "/does-not-exist",
+      "view": "desktop",
+      "text_items_checked": 29,
+      "problems": []
+    },
+    {
+      "page": "/login",
+      "view": "phone",
+      "text_items_checked": 11,
+      "problems": []
+    },
+    {
+      "page": "/forgot",
+      "view": "phone",
+      "text_items_checked": 7,
+      "problems": []
+    },
+    {
+      "page": "/reset?email=staff@shelfwise.test",
+      "view": "phone",
+      "text_items_checked": 16,
+      "problems": []
+    },
+    {
+      "page": "/",
+      "view": "phone",
+      "text_items_checked": 99,
+      "problems": []
+    },
+    {
+      "page": "/products",
+      "view": "phone",
+      "text_items_checked": 255,
+      "problems": []
+    },
+    {
+      "page": "/products/new",
+      "view": "phone",
+      "text_items_checked": 39,
+      "problems": []
+    },
+    {
+      "page": "/products/1",
+      "view": "phone",
+      "text_items_checked": 138,
+      "problems": []
+    },
+    {
+      "page": "/products/1/edit",
+      "view": "phone",
+      "text_items_checked": 38,
+      "problems": []
+    },
+    {
+      "page": "/products/1/count",
+      "view": "phone",
+      "text_items_checked": 29,
+      "problems": []
+    },
+    {
+      "page": "/sales/new",
+      "view": "phone",
+      "text_items_checked": 76,
+      "problems": []
+    },
+    {
+      "page": "/stock/receive",
+      "view": "phone",
+      "text_items_checked": 34,
+      "problems": []
+    },
+    {
+      "page": "/waste/new",
+      "view": "phone",
+      "text_items_checked": 67,
+      "problems": []
+    },
+    {
+      "page": "/history",
+      "view": "phone",
+      "text_items_checked": 1836,
+      "problems": []
+    },
+    {
+      "page": "/history?q=HDMI",
+      "view": "phone",
+      "text_items_checked": 261,
+      "problems": []
+    },
+    {
+      "page": "/reports?view=low",
+      "view": "phone",
+      "text_items_checked": 63,
+      "problems": []
+    },
+    {
+      "page": "/reports?view=slow",
+      "view": "phone",
+      "text_items_checked": 50,
+      "problems": []
+    },
+    {
+      "page": "/reports?view=sales",
+      "view": "phone",
+      "text_items_checked": 210,
+      "problems": []
+    },
+    {
+      "page": "/reports?view=waste",
+      "view": "phone",
+      "text_items_checked": 66,
+      "problems": []
+    },
+    {
+      "page": "/reports?view=condition",
+      "view": "phone",
+      "text_items_checked": 59,
+      "problems": []
+    },
+    {
+      "page": "/stock/count",
+      "view": "phone",
+      "text_items_checked": 112,
+      "problems": []
+    },
+    {
+      "page": "/suppliers",
+      "view": "phone",
+      "text_items_checked": 54,
+      "problems": []
+    },
+    {
+      "page": "/users",
+      "view": "phone",
+      "text_items_checked": 50,
+      "problems": []
+    },
+    {
+      "page": "/users/2/edit",
+      "view": "phone",
+      "text_items_checked": 32,
+      "problems": []
+    },
+    {
+      "page": "/alerts",
+      "view": "phone",
+      "text_items_checked": 265,
+      "problems": []
+    },
+    {
+      "page": "/does-not-exist",
+      "view": "phone",
+      "text_items_checked": 24,
+      "problems": []
+    }
+  ]
+}
